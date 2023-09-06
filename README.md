@@ -1,14 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+mohamad+Rageh!;I'm a Third year Computer Science student at German University in Cairo" style="color:mix" />
-</p>
-
-
-## 👨‍💻 About Me
-I'm a Third year Computer Science student at German University in Cairo
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&weight=300&pause=1000&color=FFFFFF&background=A3A7A800&width=434&lines=Hi%2C+I'm+Mohamad+Rageh!+%F0%9F%91%8B;I'm+a+Third+year+Computer+Science+student+at+German+University+in+Cairo)](https://git.io/typing-svg)
 
 ## 🛠 Skills
-Java and JavaFx
+Jav and JavaFx
 Html,CSS and JavaScript
 
 
